@@ -13,4 +13,4 @@ I work with Python and SQL, and I'm interested in AIML. I'm currently learning D
 
 - Into worldbuilding
 - Video Editing
-- Anime and Gaming(TFT, league)
+- Anime and Gaming
