@@ -5,9 +5,11 @@ I work with Python and SQL, and I'm interested in AIML. I'm currently learning D
 ---
 ## Tools & Tech
 
-- Python, SQL, Figma, PowerBI, Excel
+- Python, Figma
 - GitHub, Antigravity IDE
+- PowerBI, Excel, SQL
 ---
 ## A Bit About Me
 
 - Into worldbuilding
+- Video Editing
