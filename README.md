@@ -1,4 +1,4 @@
-# Hey there
+# Hey there 👋
 
 I'm Visagan Mathiprakasam, a Computer Application student based in Tamil Nadu, India.
 I work with Python and SQL, and I'm interested in AIML. I'm currently learning DSA.
